@@ -1,0 +1,12 @@
+.listing{
+background-color: lightgray;
+border: 5px solid lightgray;
+border-radius: 10px;
+}
+
+.listing-photo{
+border: 5px solid black;
+border-radius: 10px;
+max-width: 320px;
+max-height: 184px;
+}

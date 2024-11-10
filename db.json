@@ -1,0 +1,54 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "make": "BMW",
+      "model": "M5 Competition",
+      "location": "Dublin, Ireland",
+      "photo": "assets/m5.jpeg",
+      "doors": 4,
+      "bodytype": "Saloon",
+      "forsale": true
+    },
+    {
+      "id": 2,
+      "make": "Mercedes",
+      "model": "GT63s",
+      "location": "Cork, Ireland",
+      "photo": "assets/gt63.webp",
+      "doors": 4,
+      "bodytype": "Saloon",
+      "forsale": false
+    },
+    {
+      "id": 3,
+      "make": "BMW",
+      "model": "E46 M3",
+      "location": "Kilkee, Ireland",
+      "photo": "assets/m3.jpeg",
+      "doors": 4,
+      "bodytype": "Saloon",
+      "forsale": true
+    },
+    {
+      "id": 4,
+      "make": "Audi",
+      "model": "RS6 Avant",
+      "location": "Meath, Ireland",
+      "photo": "assets/rs6.webp",
+      "bodytype": "Estate",
+      "doors": 4,
+      "forsale": false
+    },
+    {
+      "id": 5,
+      "make": "Subaru",
+      "model": "Family Huckster//Travis Pastrana x Hoonigan",
+      "location": "London, England",
+      "photo": "assets/familyhuckster.jpeg",
+      "bodytype": "Estate",
+      "doors": 4,
+      "forsale": false
+    }
+  ]
+}
